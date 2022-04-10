@@ -1,2 +1,2 @@
 # Introduction-to-Python-Assignments
-My python assignments from university.
+My python assignments and quizzes from university.
